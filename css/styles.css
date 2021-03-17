@@ -1,0 +1,26 @@
+@charset "utf-8";
+* { margin: 0; padding: 0; border: 0; font-size: 100%; }
+
+.body {
+	background-image: url("../images/joanna-kosinska-78uNJt1kPw8-unsplash (1).jpg");
+	
+} 
+
+.title {
+	color: #FFFFFF;
+	text-align: center;
+	text-shadow: 2px 3px 0px #CFA5CE;
+}
+
+
+.text-title {
+	color: #CBA1CA;
+	text-align: center;
+	
+}
+
+.card-footer {
+	color: #FFFFFF;
+	
+}
+
